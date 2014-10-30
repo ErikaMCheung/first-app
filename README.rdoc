@@ -23,6 +23,8 @@ Things you may want to cover:
 
 * ...
 
+Hopefully this allows me to save a copy to Github.
+
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
